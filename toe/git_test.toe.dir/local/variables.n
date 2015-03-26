@@ -1,0 +1,8 @@
+DAT:null
+tile 200 25 130 90
+flags =  viewer 1
+inputs
+{
+0 	set_variables
+}
+end

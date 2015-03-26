@@ -1,0 +1,10 @@
+CHOP:noise
+tile 0 -25 130 90
+flags =  viewer 1 parlanguage 0
+extrainputs
+{
+0	../local/time
+		parameter 
+}
+view 5 -1 1 0.90107 -1.5 1.5 4 2 8600 1 0
+end

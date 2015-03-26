@@ -1,0 +1,9 @@
+TOP:chopto
+tile 0 125 130 48
+flags =  viewer 1 parlanguage 0
+extrainputs
+{
+0	noise
+		data 
+}
+end

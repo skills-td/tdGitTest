@@ -1,0 +1,5 @@
+DAT:text
+tile 20 300 130 90
+flags =  viewer 1
+view 9 1 0 0 1 1 0 0 0 0 1 1
+end

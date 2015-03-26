@@ -1,0 +1,7 @@
+?
+winop 17 "" 'project1'
+title 17 "" me
+justifyh 0 center
+justifyv 0 center
+performmode 0 on
+?

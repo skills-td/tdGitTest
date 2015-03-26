@@ -1,0 +1,10 @@
+TOP:displace
+tile 200 150 130 72
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	moviein1
+1 	chop_to_top
+}
+view 3 0 0 1 1 0
+end

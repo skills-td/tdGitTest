@@ -1,0 +1,7 @@
+?
+extractrows 0 bynames
+rowindexend 17 0 "$NR - 1"
+rownames 0 ?*
+fromcol 0 1
+colindexend 17 1 "$NC - 1"
+?

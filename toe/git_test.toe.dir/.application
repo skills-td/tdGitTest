@@ -1,0 +1,33 @@
+textport -l /project1/container1/expand1
+
+#Desk..
+# layout 
+desk -c * 
+desk -n pane1 *
+desk -h pane1 0.593627 -n pane3
+desk -v pane3 0.270666 -n pane2
+
+#pane1
+desk -p /project1/container1 pane1
+desk -t neteditor pane1
+desk -k 0 pane1
+neteditor -c 0 -e 1 -G 0.75 -o 0 -r 0 -P 0.8 -s 0 -w 0 -x 0 -t 1 -d 1 -g 0 -p pane1
+textport -l /project1/container1/expand1  -p pane1
+textport -c /project1/container1/expand1  -p pane1
+
+#pane3
+desk -p /project1/container1 pane3
+desk -t textport pane3
+desk -k 0 pane3
+neteditor -c 0 -e 1 -G 0.75 -o 0 -r 0 -P 0.8 -s 0 -w 0 -x 0 -t 1 -d 1 -g 0 -p pane3
+textport -l /project1/container1/expand1  -p pane3
+textport -c /project1/container1/expand1  -p pane3
+
+#pane2
+desk -p /project1/container1 pane2
+desk -t textport pane2
+desk -k 0 pane2
+neteditor -c 0 -e 1 -G 0.75 -o 0 -r 0 -P 0.8 -s 0 -w 0 -x 0 -t 1 -d 1 -g 0 -p pane2
+
+browser off
+winplacement ontop=0 mode=auto posx=0 posy=0 sizex=1024 sizey=768 enable=1 skip=0 monitor2.left=0 monitor2.right=1 monitor2.bottom=0 monitor2.top=1 monitor2.stretchx=1 monitor2.stretchy=1 monitor2.forcestretch=0 monitor2.enable=0 monitor2.path=/monitor2 monitor3.left=0 monitor3.right=1 monitor3.bottom=0 monitor3.top=1 monitor3.stretchx=1 monitor3.stretchy=1 monitor3.forcestretch=0 monitor3.enable=0 monitor3.path=/monitor3 monitor4.left=0 monitor4.right=1 monitor4.bottom=0 monitor4.top=1 monitor4.stretchx=1 monitor4.stretchy=1 monitor4.forcestretch=0 monitor4.enable=0 monitor4.path=/monitor4 perform.ontop=0 perform.mode=4 perform.setpos=0 perform.posx=50 perform.posy=50 perform.setsize=0 perform.sizex=450 perform.sizey=450 perform.start=0 perform.enable=0 perform.path=/perform perform.borders=1 perform.exclusive=1

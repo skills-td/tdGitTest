@@ -1,0 +1,8 @@
+DAT:convert
+tile 195 0 130 90
+flags =  viewer 1
+inputs
+{
+0 	panes_text
+}
+end

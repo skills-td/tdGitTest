@@ -1,0 +1,9 @@
+?
+template 0 select2
+namefromtable 0 colbyname
+colname 0 id
+opprefix 0 id
+master 0 master
+tscript 0 "run script $ITEM"
+callbacks 0 replicator1_callbacks
+?

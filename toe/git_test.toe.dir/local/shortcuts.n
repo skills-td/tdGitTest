@@ -1,0 +1,4 @@
+DAT:filein
+tile 1035 -295 130 90
+flags =  viewer 1
+end

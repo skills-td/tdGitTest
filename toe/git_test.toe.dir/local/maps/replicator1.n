@@ -1,0 +1,11 @@
+COMP:replicator
+tile 10 140 160 130
+flags =  picked on current on
+extrainputs
+{
+0	master
+		data 
+1	select2
+		data 
+}
+end

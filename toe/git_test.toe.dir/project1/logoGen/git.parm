@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 1
+text 49 "" me.name
+font 0 Consolas
+dispmethod 0 polygon
+antialias 0 aa16high
+resolution1 0 400
+resolution2 0 400
+resmult 0 off
+?

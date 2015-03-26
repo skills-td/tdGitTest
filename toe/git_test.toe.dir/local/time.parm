@@ -1,0 +1,4 @@
+?
+rate 17 60 $COOKRATE
+clone 0 /sys/local/time
+?

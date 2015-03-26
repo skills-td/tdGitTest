@@ -1,0 +1,8 @@
+?
+horzsource 0 none
+vertsource 0 red
+displaceweight1 0 0
+displaceweight2 0 0.05
+offsetweight 49 0 "1 - me.par.uvweight.eval()"
+extend 0 mirror
+?

@@ -1,0 +1,8 @@
+DAT:null
+tile 185 5 130 90
+flags = 
+inputs
+{
+0 	set_variables
+}
+end

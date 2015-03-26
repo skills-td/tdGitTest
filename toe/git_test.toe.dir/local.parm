@@ -1,0 +1,8 @@
+?
+display 0 off
+enable 0 off
+drag 0 dragparent
+drop 0 dropparent
+nodeview 0 opviewer
+opviewer 0 ./variables
+?

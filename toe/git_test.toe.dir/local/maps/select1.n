@@ -1,0 +1,9 @@
+DAT:select
+tile -300 160 130 90
+flags =  viewer 1
+extrainputs
+{
+0	../midi/device
+		data 
+}
+end

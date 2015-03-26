@@ -1,0 +1,12 @@
+?
+rough 0 0.25
+amp 0 3
+tx 17 6531 absTime.frame
+ty 0 0
+tz 0 0
+constraint 0 offset
+constrmean 0 0.5
+end 0 2
+rate 17 60 me.time.rate
+autoexportroot 17 "" me.parent()
+?

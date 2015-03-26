@@ -1,0 +1,5 @@
+DAT:table
+tile 900 -325 130 90
+flags =  picked on current on viewer 1
+view 9 1 0 0 1 1 0 0 0 0 1 1
+end

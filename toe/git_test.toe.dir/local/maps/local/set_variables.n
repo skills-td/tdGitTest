@@ -1,0 +1,4 @@
+DAT:table
+tile 35 5 130 90
+flags =  current on
+end

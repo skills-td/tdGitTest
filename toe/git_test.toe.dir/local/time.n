@@ -1,0 +1,4 @@
+COMP:time
+tile 450 -300 160 130
+flags =  viewer 1
+end
